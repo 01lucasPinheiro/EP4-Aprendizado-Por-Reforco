@@ -1,0 +1,8 @@
+=== Pista: pista_03.txt ===
+Episódios de treinamento: 30000
+Discretização: K=5
+Tempo de chegada (passos): 11
+Velocidade média: 0.59
+Velocidade máxima atingida: 1.5
+Recompensa total: 506.0
+Sucesso: SIM
